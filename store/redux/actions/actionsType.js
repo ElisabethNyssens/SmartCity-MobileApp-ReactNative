@@ -1,0 +1,5 @@
+export const AUTHENTICATE = "AUTHENTICATE";
+export const INIT_USER = "INIT_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const LOGOUT = "LOGOUT";
+export const UPDATE_SUBSCRIPTIONS = "UPDATE_SUBSCRIPTIONS";
